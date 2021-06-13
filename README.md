@@ -17,6 +17,7 @@ No known bugs yet
 * HTML
 * CSS
 * Javascript
+* Bootstrap
 ## Live site
 
 ## Support and contact details
