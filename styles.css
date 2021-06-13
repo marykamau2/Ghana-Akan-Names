@@ -1,0 +1,39 @@
+*,*::after, *::before{
+    margin: 0px;
+    padding: 10px;
+}
+
+body{
+    background-color:gray;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.hero{
+    text-align: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: blueviolet;
+    
+}
+.hero:hover{
+    color:red;
+}
+h1{
+    text-align: center;
+}
+p{
+font-family:  sans-serif;
+font-weight: 300;
+font-size: larger;
+text-align: center;
+margin: 10px 60px 30px 60px;
+}
+
+.container-margin{
+    text-align: center;
+
+}
+
