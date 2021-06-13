@@ -9,7 +9,7 @@ body{
     box-sizing: border-box;
 }
     
-/* }
+
 
 .hero{
     text-align: center;
@@ -19,7 +19,7 @@ body{
     background-color: blueviolet;
     
 }
-.hero:hover{
+/* .hero:hover{
     color:red;
 }
 h1{
