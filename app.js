@@ -5,7 +5,7 @@ function output() {
     var mm = parseInt(month);
     var year = document.getElementById("year").value;
     var yy = parseInt(year);
-   /*  var cc = (yy - 1) / 100 + 1;
+     var cc = (yy - 1) / 100 + 1;
     var result = parseInt(((cc / 4) - 2 * cc - 1) + ((5 * yy / 4)) + ((26 * (mm + 1) / 10)) + dd) % 7;
     var boy = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     var girl = ["Akosua", " Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
@@ -53,7 +53,7 @@ function output() {
     document.getElementById("outcome").innerHTML =
     ("Born on monday ,your akan name is " + girl[1]);
     }
-    else if (Math.ceil(result) == 2 && gender === 'female') {
+   /*  else if (Math.ceil(result) == 2 && gender === 'female') {
     document.getElementById("outcome").innerHTML =
     ("Born on Tuesday,your akan name is " + girl[2]);
     }
@@ -78,6 +78,6 @@ function output() {
     ("Born on Sunday,your akan name is " + girl[0]);
     }
    else {
-    alert("enter your information please");
-    }  */
+    alert("Enter your information please");
+    }   */
     }
