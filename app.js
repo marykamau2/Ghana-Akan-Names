@@ -53,7 +53,7 @@ function output() {
     document.getElementById("outcome").innerHTML =
     ("Born on monday ,your akan name is " + girl[1]);
     }
-   /*  else if (Math.ceil(result) == 2 && gender === 'female') {
+     else if (Math.ceil(result) == 2 && gender === 'female') {
     document.getElementById("outcome").innerHTML =
     ("Born on Tuesday,your akan name is " + girl[2]);
     }
@@ -77,7 +77,7 @@ function output() {
     document.getElementById("outcome").innerHTML =
     ("Born on Sunday,your akan name is " + girl[0]);
     }
-   else {
+  /*  else {
     alert("Enter your information please");
-    }   */
+    }    */
     }
