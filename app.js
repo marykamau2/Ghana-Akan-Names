@@ -20,9 +20,11 @@ function output() {
     }
     if (mm < 1 || mm > 12 || mm == 2 && dd > 29) {
     alert("INVALID MONTH");
+    return false;
     }
     else if (dd < 1 || dd > 31) {
     alert("INVALID DAY");
+    return false;
     }
     else if (Math.ceil(result) == 1 && gender === 'male');{
     document.getElementById("outcome").innerHTML =
@@ -82,5 +84,6 @@ function output() {
     }
    else {
     alert("Enter your information please");
+    return false;
     }   
 }
