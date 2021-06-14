@@ -77,7 +77,7 @@ function output() {
     document.getElementById("outcome").innerHTML =
     ("Born on Sunday,your akan name is " + girl[0]);
     }
-  /*  else {
+   else {
     alert("Enter your information please");
-    }    */
+    }   
     }
